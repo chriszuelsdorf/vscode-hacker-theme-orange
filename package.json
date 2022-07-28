@@ -28,8 +28,5 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/chriszuelsdorf/vscode-hacker-theme-orange"
-    },
-    "dependencies": {
-        "vsce": "^1.78.0"
     }
 }
