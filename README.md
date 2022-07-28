@@ -1,27 +1,16 @@
-# Hacker Theme for Visual Studio Code
-[
-    ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/thorerik.hacker-theme)
-    ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/thorerik.hacker-theme)
-    ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/i/thorerik.hacker-theme)
-    ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/thorerik.hacker-theme)
-    ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/thorerik.hacker-theme)
-](https://marketplace.visualstudio.com/items?itemName=thorerik.hacker-theme)
+# (Orange) Hacker Theme for Visual Studio Code
 
-![GitHub](https://img.shields.io/github/license/thorerik/vscode-hacker-theme)
-[![Build Status](https://dev.azure.com/tuxyq/vscode-hacker-theme/_apis/build/status/thorerik.vscode-hacker-theme?branchName=master)](https://dev.azure.com/tuxyq/vscode-hacker-theme/_build/latest?definitionId=1&branchName=master)
+Fork of [`thorerik.hacker-theme`](https://marketplace.visualstudio.com/items?itemName=thorerik.hacker-theme), with repo [here](https://github.com/thorerik/vscode-hacker-theme). The only change is from shades of green to shades of orange.
 
 The perfect theme for writing IP tracers in Visual Basic and reverse-proxying a UNIX-system firewall
-
-![Preview](/media/Code_2020-08-12_01-55-19.png)
-![Preview](/media/Code_Ss8f2W2inl.png)
 
 ## Installation
 
 ### Marketplace
-[View on Marketplace](https://marketplace.visualstudio.com/items?itemName=thorerik.hacker-theme)
+[View on Marketplace](https://marketplace.visualstudio.com/items?itemName=czuelsdorf.hacker-theme-orange)
 
-`ext install thorerik.hacker-theme`
+`ext install czuelsdorf.hacker-theme-orange`
 
 ### CLI
-`$ code --install-extension thorerik.hacker-theme`
+`$ code --install-extension czuelsdorf.hacker-theme-orange`
 

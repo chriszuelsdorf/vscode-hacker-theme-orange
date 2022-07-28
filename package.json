@@ -1,15 +1,8 @@
 {
-    "name": "hacker-theme",
-    "displayName": "hacker-theme",
-    "description": "The perfect theme for writing IP tracers in Visual Basic and reverse-proxying a UNIX-system firewall",
-    "author": {
-        "name": "Thor Erik Lie",
-        "email": "thor@thorerik.com"
-    },
+    "name": "hacker-theme-orange",
+    "displayName": "hacker-theme-orange",
+    "description": "Orange-shaded fork of thorerik.hacker-theme.",
     "version": "2.0.0",
-    "scripts": {
-        "deploy": "vsce publish"
-    },
     "engines": {
         "vscode": "^1.47.0"
     },
@@ -19,27 +12,22 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hacker Theme Monochrome",
+                "label": "Orange Hacker Theme Monochrome",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Hacker-Theme-Monochrome-color-theme.json"
             },
             {
-                "label": "Hacker Theme Colorized",
+                "label": "Orange Hacker Theme Colorized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Hacker-Theme-Colorkeywords-color-theme.json"
             }
         ]
     },
-    "galleryBanner": {
-        "theme": "dark",
-        "color": "#505050"
-    },
-    "icon": "media/icon.png",
     "license": "MIT",
-    "publisher": "thorerik",
+    "publisher": "czuelsdorf",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thorerik/vscode-hacker-theme"
+        "url": "https://github.com/chriszuelsdorf/vscode-hacker-theme-orange"
     },
     "dependencies": {
         "vsce": "^1.78.0"
