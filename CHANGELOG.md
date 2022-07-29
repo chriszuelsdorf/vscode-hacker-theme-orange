@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.0.3
+- Cell border visibility; try again
+
 ## v2.0.2
 - Made selected cell borders visible
 
