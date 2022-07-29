@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.0.4
+- Jupyter editor border
+
 ## v2.0.3
 - Cell border visibility; try again
 

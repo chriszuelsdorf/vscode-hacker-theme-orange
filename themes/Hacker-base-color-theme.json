@@ -271,7 +271,7 @@
 		"notebook.focusedCellBackground": "#000000",
 		"notebook.focusedCellBorder": "#e59000",
 		"notebook.focusedCellShadow": "#000000",
-		"notebook.focusedEditorBorder": "#000000",
+		"notebook.focusedEditorBorder": "#e59000",
 		"notebook.selectedCellBorder": "#e59000",
 		"notebook.inactiveFocusedCellBorder": "#e59000",
 		"notebook.inactiveSelectedCellBorder": "#e59000",
