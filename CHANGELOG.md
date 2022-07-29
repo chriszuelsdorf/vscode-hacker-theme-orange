@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.0.1
+- Made notebook cell borders visible
+
 ## v2.0.0
 - Renamed the original to "Monochrome"
 - Added colorized version
