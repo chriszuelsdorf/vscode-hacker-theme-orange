@@ -272,6 +272,7 @@
 		"notebook.focusedCellBorder": "#e59000",
 		"notebook.focusedCellShadow": "#000000",
 		"notebook.focusedEditorBorder": "#000000",
+		"notebook.selectedCellBorder": "#e59000",
 		"notebook.outputContainerBackgroundColor": "#000000",
 		"notebookScrollbarSlider.activeBackground": "#000000",
 		"notebookScrollbarSlider.background": "#000000",

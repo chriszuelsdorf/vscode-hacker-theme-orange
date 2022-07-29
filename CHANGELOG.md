@@ -1,5 +1,8 @@
 # Change Log
 
+## v2.0.2
+- Made selected cell borders visible
+
 ## v2.0.1
 - Made notebook cell borders visible
 
